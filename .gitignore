@@ -1,0 +1,21 @@
+# Android Studio
+.idea/
+*.iml
+gradlew.bat
+local.properties
+
+# Build files
+build/
+app/build/
+
+# Gradle
+.gradle/
+gradle.properties
+
+# Keystores
+*.jks
+*.keystore
+
+# Logs
+*.log
+
